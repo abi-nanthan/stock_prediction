@@ -1,5 +1,5 @@
 streamlit
 datetime
 yfinance
-prophet==1.0.1
+prophet
 plotly
